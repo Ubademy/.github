@@ -1,4 +1,3 @@
-# UBADEMY
 <h1 align="center">
   <br>
   <img src="https://taller-de-programacion-2.github.io/works/statement/2021/2/tp/ubademy.png" alt="downshift logo" title="downshift logo" width="300" href="https://ubademy.github.io/">
